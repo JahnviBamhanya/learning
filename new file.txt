@@ -1,0 +1,2 @@
+git remote add origin https://github.com/JahnviBamhanya/learning.git
+learning is worth it definitely
